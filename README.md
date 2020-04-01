@@ -1,5 +1,5 @@
-<DOCTYPE! html>
-<html>
+<!DOCTYPE html>
+<html lang=en>
   # THP2020
   <head>
     <meta charset="utf-8">
