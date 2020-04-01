@@ -3,7 +3,7 @@
   # THP2020
   <head>
     <meta charset="utf-8">
-    <title> WIldstef </title>
+    <title>Wildstef</title>
   </head>
   <body>
     <h1>This repository contains the documents I will code during THP 2020 #Covid19</h1>
