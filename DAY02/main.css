@@ -43,3 +43,9 @@ input {
 footer {
   background-color: #d0d4d9;
 }
+
+.corona {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
